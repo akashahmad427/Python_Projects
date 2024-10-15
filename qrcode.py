@@ -2,7 +2,7 @@
 import qrcode as qr
 img = qr.make('My name is akash')
 img.save('myself.jpeg')
-
+#this line for only testing purpose only chack the pr
 
 #advance qrcode with beautiful editing 
 import qrcode
