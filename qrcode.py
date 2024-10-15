@@ -2,7 +2,7 @@
 import qrcode as qr
 img = qr.make('My name is akash')
 img.save('myself.jpeg')
-
+***change the commit message successfully***
 
 #advance qrcode with beautiful editing 
 import qrcode
