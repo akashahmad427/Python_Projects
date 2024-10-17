@@ -1,5 +1,4 @@
 lstside=['north','east','west','south','south','north']
-##***akash ahmad_*** 
 
 
 '''a = []
