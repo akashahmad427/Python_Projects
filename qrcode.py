@@ -1,10 +1,12 @@
+
 #simple qrcode
 import qrcode as qr
 img = qr.make('My name is akash')
 img.save('myself.jpeg')
-
+***change the commit message successfully***
 
 #advance qrcode with beautiful editing 
+# second pull request for testing purpose.
 import qrcode
 from PIL import Image
 qr = qrcode.QRCode(version=1,
